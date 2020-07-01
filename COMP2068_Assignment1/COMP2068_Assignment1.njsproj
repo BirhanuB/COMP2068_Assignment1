@@ -30,6 +30,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.js" />
+    <Content Include="public\images\Barrie.jpeg" />
+    <Content Include="public\images\bg1.png" />
+    <Content Include="public\images\Georgian.jpg" />
     <Content Include="routes\index.js" />
     <Content Include="routes\users.js" />
     <Content Include="package.json" />
